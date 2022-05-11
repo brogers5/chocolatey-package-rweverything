@@ -13,7 +13,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.jsdelivr.net/gh/brogers5/chocolatey-package-rweverything@82c0cd66ba0a50b1925007c2bf0972b934dccb47/rweverything.png</iconUrl>
     <copyright>Copyright (c) 2003 Jeff Chan</copyright>
-    <tags>rweverything pci memory index io space data sio clock dimm spd smbus msr register ata atapi acpi disk usb smbios edid</tags>
+    <tags>rweverything pci memory index io space data sio clock dimm spd smbus msr register ata atapi acpi disk usb smbios edid freeware cli</tags>
     <summary>Read &amp; Write Everything</summary>
     <description><![CDATA[
 ---
