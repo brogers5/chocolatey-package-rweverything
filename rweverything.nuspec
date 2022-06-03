@@ -3,8 +3,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>rweverything</id>
-    <version>1.7</version>
-    <packageSourceUrl>https://github.com/brogers5/chocolatey-package-rweverything/tree/v1.7</packageSourceUrl>
+    <version>1.7.0.20220602</version>
+    <packageSourceUrl>https://github.com/brogers5/chocolatey-package-rweverything/tree/v1.7.0.20220602</packageSourceUrl>
     <owners>sublym0nal</owners>
     <title>RWEverything</title>
     <authors>Jeff Chan</authors>
@@ -32,7 +32,7 @@ Powerful utility for hardware engineers, firmware (BIOS) engineers, driver devel
 ]]></description>
     <releaseNotes>http://rweverything.com/changelog/</releaseNotes>
     <dependencies>
-      <dependency id="rweverything.install" version="[1.7]" />
+      <dependency id="rweverything.install" version="[1.7.0.20220602]" />
     </dependencies>
   </metadata>
   <files>
