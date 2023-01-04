@@ -4,11 +4,11 @@
 
 ---
 
-This package is part of a family of packages published for RWEverything. This repository is for the virtual package.
+This package is part of a family of packages published for RWEverything. This repository is for the meta package.
 * For the installer package, see [chocolatey-package-rweverything.install](https://github.com/brogers5/chocolatey-package-rweverything.install).
 * For the portable package, see [chocolatey-package-rweverything.portable](https://github.com/brogers5/chocolatey-package-rweverything.portable).
 
-See the [Chocolatey FAQs](https://docs.chocolatey.org/en-us/faqs) for more information on [virtual packages](https://docs.chocolatey.org/en-us/faqs#what-is-the-difference-between-packages-no-suffix-as-compared-to.install.portable) and [installer/portable packages](https://docs.chocolatey.org/en-us/faqs#what-distinction-does-chocolatey-make-between-an-installable-and-a-portable-application).
+See the [Chocolatey FAQs](https://docs.chocolatey.org/en-us/faqs) for more information on [meta packages](https://docs.chocolatey.org/en-us/faqs#what-is-the-difference-between-packages-no-suffix-as-compared-to.install.portable) and [installer/portable packages](https://docs.chocolatey.org/en-us/faqs#what-distinction-does-chocolatey-make-between-an-installable-and-a-portable-application).
 
 ---
 
